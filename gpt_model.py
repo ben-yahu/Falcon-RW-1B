@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 """GPT_Model
 
-Original file is located at
-    https://colab.research.google.com/drive/1Dv1rA3DkrR9PZYws3OXPNJaIPdpSpqr3
-
 ##**Importing libraries**
 """
 
